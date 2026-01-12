@@ -23,4 +23,5 @@ Hold down L3 button, then press:
    
 build
 1. install `binutils-powerpc64-linux-gnu` and `gcc-powerpc64-linux-gnu`.
+
 2. then `make`.
