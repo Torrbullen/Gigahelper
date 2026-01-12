@@ -1,0 +1,5 @@
+#- name: GigaHelper
+#- author: isaka2025 and Torrbullen
+#- href: 
+#- version: 1.0
+#- description: Tool for having savefiles locally and running them from pc.
